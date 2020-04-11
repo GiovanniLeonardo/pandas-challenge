@@ -6,6 +6,6 @@ Pandas Homework - week 4
 ### Your final report should include each of the following:
 
 
-![Resources1](Resources/capture1.JPG)
-![Resources2](Resources/capture2.JPG)
-![Resources3](Resources/capture3.JPG)
+![Resources1](HerosOfPymoli/Resources/capture1.JPG)
+![Resources2](HerosOfPymoli/Resources/capture2.JPG)
+![Resources3](HerosOfPymoli/Resources/capture3.JPG)
